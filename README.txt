@@ -54,6 +54,5 @@ Add New User:
 Auth0 (website) -> User Management
 
 Next Steps:
-- Trend Data (talk to Ms. Michelle Blake re parameters to be trended)
 - Have Auth0 determine who is submitting parameter sheet
 
